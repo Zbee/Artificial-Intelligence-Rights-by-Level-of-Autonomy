@@ -1,2 +1,2 @@
 Introduction.tex
-Explanation Transition.tex
+Introduction - explanation.tex
