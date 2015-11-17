@@ -1,4 +1,4 @@
 Intro - thesis.tex
-Intro - explanation.tex
+Intro - Explanation.tex
 Confined AI - Definition.tex
 Confined AI - Need Rights.tex
