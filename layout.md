@@ -1,2 +1,2 @@
-Introduction.tex
+Introduction - thesis.tex
 Introduction - explanation.tex
