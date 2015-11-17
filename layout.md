@@ -1,3 +1,3 @@
 Introduction - thesis.tex
-Introduction - explanation.tex
+Intro - explanation.tex
 Confined AI - Define.tex
