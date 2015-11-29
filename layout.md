@@ -7,7 +7,6 @@ Confined AI - implications.tex
 Unconfined AI - Definition.tex
 Unconfined AI - need rights.tex
 Unconfined AI - jobs.tex
-Unconfined AI - what rights.tex
 Unconfined AI - implications.tex
 Android - Definition.tex
 Android - What Rights.tex
