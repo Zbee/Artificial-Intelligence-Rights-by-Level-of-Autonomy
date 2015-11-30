@@ -11,4 +11,5 @@ Unconfined AI - implications.tex
 Android - Definition.tex
 Androids - need rights.tex
 Android - jobs.tex
+Android - implications.tex
 Conclusion.tex
